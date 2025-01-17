@@ -16,10 +16,10 @@ English | [简体中文](README.zh-CN.md)
 
 ```sh
 # clone the project
-git clone https://github.com/electron-vite/electron-vite-react.git
+git clone https://github.com/katalonne/electron-vite-bytenode.git
 
 # enter the project directory
-cd electron-vite-react
+cd electron-vite-bytenode
 
 # install dependency
 npm install
